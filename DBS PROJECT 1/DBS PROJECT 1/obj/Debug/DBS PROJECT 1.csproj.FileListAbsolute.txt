@@ -1,0 +1,26 @@
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\bin\Debug\DBS PROJECT 1.exe.config
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\bin\Debug\DBS PROJECT 1.exe
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\bin\Debug\DBS PROJECT 1.pdb
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\bin\Debug\Oracle.DataAccess.EntityFramework.dll
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS PROJECT 1.csprojAssemblyReference.cache
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form1.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Properties.Resources.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS PROJECT 1.csproj.GenerateResource.cache
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS PROJECT 1.csproj.CoreCompileInputs.cache
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS PROJECT 1.csproj.CopyComplete
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS PROJECT 1.exe
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS PROJECT 1.pdb
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form2.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form3.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form4.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form5.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form7.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form8.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form6.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form10.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form9.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form11.resources
+C:\Users\abhir\source\repos\DBS PROJECT 1\DBS PROJECT 1\obj\Debug\DBS_PROJECT_1.Form12.resources
